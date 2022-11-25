@@ -92,6 +92,8 @@ def asd3(item, repeat, my_money):
 
 asd()
 print('종료')
+print('종료')
+print('종료')
 
 
 
